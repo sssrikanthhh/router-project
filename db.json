@@ -1,0 +1,128 @@
+{
+	"mobiles": [
+		{
+			"id": 1,
+			"img": "https://images.unsplash.com/photo-1548094891-c4ba474efd16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW9iaWxlc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=600&q=60",
+			"name": "iphone",
+			"price": 52000,
+			"company": "apple",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 2,
+			"img": "https://images.unsplash.com/photo-1595941069915-4ebc5197c14a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG1vYmlsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+			"name": "mate pro",
+			"price": 48000,
+			"company": "huawei",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 3,
+			"img": "https://images.unsplash.com/photo-1533156430273-a2cf57b09495?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1vYmlsZXN8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+			"name": "balance-91",
+			"price": 37000,
+			"company": "sony",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 4,
+			"img": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"name": "galaxy",
+			"price": 62000,
+			"company": "samsung",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 5,
+			"img": "https://images.pexels.com/photos/248528/pexels-photo-248528.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"name": "power-5i",
+			"price": 29000,
+			"company": "asus",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		}
+	],
+	"laptops": [
+		{
+			"id": 1,
+			"img": "https://rukminim2.flixcart.com/image/312/312/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70",
+			"name": "macbook air",
+			"price": 252000,
+			"company": "apple",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 2,
+			"img": "https://rukminim2.flixcart.com/image/312/312/kt4ozgw0/computer/k/r/h/swift-3-thin-and-light-laptop-acer-original-imag6jer4nhrjth2.jpeg?q=70",
+			"name": "swift 3",
+			"price": 60000,
+			"company": "acer",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 3,
+			"img": "https://rukminim2.flixcart.com/image/612/612/kyvvtzk0/computer/2/7/l/-original-imagbygbzq27x6sy.jpeg?q=70",
+			"name": "pavilion",
+			"price": 70000,
+			"company": "hp",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 4,
+			"img": "https://rukminim2.flixcart.com/image/312/312/kod858w0/computer/m/g/z/na-notebook-dell-original-imag2u9tttgfmsvx.jpeg?q=70",
+			"name": "inspiron",
+			"price": 80000,
+			"company": "dell",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 5,
+			"img": "https://rukminim2.flixcart.com/image/312/312/ktop5e80/computer/f/p/w/km513ua-l503ts-thin-and-light-laptop-asus-original-imag6yt6ftegd5bx.jpeg?q=70",
+			"name": "vivbobook",
+			"price": 65000,
+			"company": "asus",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		}
+	],
+	"headsets": [
+		{
+			"id": 1,
+			"img": "https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70",
+			"name": "rockerz",
+			"price": 2000,
+			"company": "boat",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 2,
+			"img": "https://rukminim2.flixcart.com/image/612/612/k01b8280pkrrdj/headphone/g/j/8/jbl-t450-bt-original-imaff82dvk9wsbzx.jpeg?q=70",
+			"name": "quantam",
+			"price": 1500,
+			"company": "jbl",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 3,
+			"img": "https://rukminim2.flixcart.com/image/612/612/k65d18w0pkrrdj/headphone/f/j/n/skullcandy-uproar-s5urhw-509-original-imafd7wcj3tctzjm.jpeg?q=70",
+			"name": "uproar",
+			"price": 4000,
+			"company": "skullcandy",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 4,
+			"img": "https://rukminim2.flixcart.com/image/612/612/l15bxjk0/headphone/h/p/w/rma2105-realme-original-imagcsfvjhsygg6x.jpeg?q=70",
+			"name": "air 3",
+			"price": 40000,
+			"company": "realme",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		},
+		{
+			"id": 5,
+			"img": "https://rukminim2.flixcart.com/image/612/612/kyhlfgw0/headphone/g/j/d/buds-z2-truly-wireless-earbuds-oneplus-original-imagapfcp38gzydz.jpeg?q=70",
+			"name": "buds z2",
+			"price": 45000,
+			"company": "oneplus",
+			"desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+		}
+	]
+}
